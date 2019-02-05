@@ -32,7 +32,7 @@ do
 	# take action
 	case $c in
 		1) pause "$(date)";;
-		2) xprintidle; pause;;
+		2) ./idle.sh;;
 		3) ./open.sh; ./build_server_on.sh;;
 		4) ./closed.sh; ./build_server_off.sh;;
 		5) break;;
