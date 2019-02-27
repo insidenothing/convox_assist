@@ -1,1 +1,25 @@
 Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... ERROR: ValidationError: No updates are to be performed.
+	status code: 400, request id: 73acd69c-346c-11e9-aeb3-ed0cb61236f9
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... ERROR: ValidationError: Stack:arn:aws:cloudformation:us-east-1:247860683725:stack/prod2018/475dac30-1066-11e8-9c98-500c285eae99 is in UPDATE_IN_PROGRESS state and can not be updated.
+	status code: 400, request id: a76e437f-36c1-11e9-b96a-db9a31d4706c
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
+Updating parameters... OK
